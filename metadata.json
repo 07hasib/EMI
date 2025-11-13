@@ -1,0 +1,5 @@
+{
+  "name": "Copy of EMI Calculator with Step-up Option",
+  "description": "A simple EMI calculator allowing users to compare regular and step-up EMI options, visualize interest savings, and reduced loan tenure with interactive charts.",
+  "requestFramePermissions": []
+}
